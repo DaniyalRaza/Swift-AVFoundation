@@ -409,6 +409,7 @@
 				2D54D9E41AA74C6C0087EC4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2D54D9E51AA74C6C0087EC4E /* Build configuration list for PBXNativeTarget "QRCodeReaderTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				2D54D9E71AA74C6C0087EC4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
